@@ -1,7 +1,7 @@
-// --- COMPREHENSIVE DATASET ---
-    const batchData = {
+
         0: [ // DS & AI (Saurav)
-                        { title: "Divya 8:30PM Aug 24 Passcode: i!Bu5S2W", link: "https://us06web.zoom.us/rec/play/xKlkgr49jD3Kh0rgs8jzfQl2ov6VaS3nI_x5KTK4P5HWvkD88g0r03KCrW7a32iYNkFm5we9zRMNHZWi.d7x_3kxlOK77EJbf" },
+        
+            { title: "Divya 8:30PM Aug 24 Passcode: i!Bu5S2W", link: "https://us06web.zoom.us/rec/play/xKlkgr49jD3Kh0rgs8jzfQl2ov6VaS3nI_x5KTK4P5HWvkD88g0r03KCrW7a32iYNkFm5we9zRMNHZWi.d7x_3kxlOK77EJbf" },
             { title: "Divya 8:30PM Aug 31 Passcode: %Gn#97*?", link: "https://us06web.zoom.us/rec/play/oL3J-Nr17o9Cr8ZkoTeGC0MmTRsfJLyJ_0xZC6Vb_D4t20nzQKM2pxqB79E_sJDfuLE81Z2PafZ4TvRu.9o9_LjDtCSLap6hv" },
             { title: "Divya 8:30 PM Sep 20", link: "https://drive.google.com/file/d/1LEqUqrXfbMmoLJbewV1u2hkt2JTQ-6xK/view?usp=drive_link" },
             { title: "Divya 8:30 PM Sep 14", link: "https://drive.google.com/file/d/1diE2-OMtPGpN5cwt2EDa__XSRb6PiQp_/view?usp=drive_link" },
@@ -59,6 +59,16 @@
             { title: "Divya Solanki 8:30PM Mar 23", link: "https://drive.google.com/file/d/1vcpKNPCHoxG-2yVhoWeD4YfwFZO-Xwks/view?usp=drive_link" },
             { title: "Divya Solanki 8:30PM Mar 23", link: "https://drive.google.com/file/d/1vcpKNPCHoxG-2yVhoWeD4YfwFZO-Xwks/view?usp=drive_link" }
         ],
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
         1: [ // Data Analytical Tools (Divya)
             { title: "Divya 2PM Sep 27", link: "https://drive.google.com/file/d/1SeP0t2ul3fqxiOIxOChM7eY85U-GsEXV/view?usp=drive_link" },
             { title: "Divya 2PM Sep 28", link: "https://drive.google.com/file/d/1eF4EH-ikdxxz55MdTrMnkQ8MCS8KTJ0e/view?usp=drive_link" },
@@ -85,6 +95,16 @@
             { title: "July 13 – Divya (02:00 PM) Passcode: Q$Ew?q^0", link: "https://us06web.zoom.us/rec/play/fLkbLpgeJlnj2ucyHRD6eSWWLwR0xiVpyEQkwxDvea8_SE1b6Q7t9FifQXo76M6pjbKDuTUIIbMzGbjk.lQ0_BsdPIBUuqtZX" },
             { title: "July 12 – Divya (02:00 PM) Passcode: @M8zn73e", link: "https://us06web.zoom.us/rec/play/YP5EM4p8XGr6Z0HMXBeYlwjQapZxbFfjN6XwA68IFyjzXkqLJTPfwp5BGrDOar55XzGWFoQFufc1dsc8.szlbB7CzskdsnpLj" }
         ],
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
         2: [ // Deep Learning (Divya Solanki)
             { title: "Saurav 8PM Dec 28", link: "https://drive.google.com/file/d/1k3j7SzuNMZNQJ4MbdRBftjwXWEnXNOcy/view?usp=drive_link" },
             { title: "Saurav 8PM Dec 27", link: "https://drive.google.com/file/d/1-SbPT0jmm0OP9ZhlkK5OTz8V3VP67mMN/view?usp=drive_link" },
@@ -110,6 +130,23 @@
             { title: "Saurav Oct 5", link: "https://drive.google.com/file/d/1MEAEhBAomaY-kshJ2EkiHMAuK67oWXtC/view?usp=drive_link" },
             { title: "Saurav 8PM Oct 4", link: "https://drive.google.com/file/d/1aeAHg-kyuT9AK3vlQ30CC7WXu4nS80pP/view?usp=drive_link" }
         ],
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         3: [ // Internship (Nexthikes)
             { title: "18/12/2025 NextHikes B12.mp4", link: "https://drive.google.com/open?id=12_iQu4iqDA5Bcyz7T8Xolt6UdDssc05Q" },
             { title: "12/11/2025 NextHikes B12.mp4", link: "https://drive.google.com/open?id=10BeoeatIFuE-XhvE4nZtUPNsngBASBfV" },
